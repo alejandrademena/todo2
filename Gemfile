@@ -8,6 +8,11 @@ end
 gem 'sqlite3', group: :development
 gem 'pg', group: :production
 
+# Add Foundation to your Rails app
+gem 'foundation-rails'
+# Include 'rails_12factor' gem to enable all platform features
+gem 'rails_12factor', group: :production
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.1'
 # Use sqlite3 as the database for Active Record
