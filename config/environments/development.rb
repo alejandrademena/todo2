@@ -37,7 +37,7 @@ config.action_mailer.perform_deliveries = false
     user_name:'testingrails.gcd.ceu',
     password:'xxxxxxxx',
     authentication:'plain',
-    enable_starttls_auto: true  }
+    enable_starttls_auto: true }
 
 
 
